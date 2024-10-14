@@ -30,7 +30,7 @@ I am a full-stack student passionate about both front-end and back-end developme
 
 ### 📬 Connect with Me
 - [LinkedIn](https://linkedin.com/in/youssef-bendahmad)
-- [Email](mailto:bndahmadyoussef@gmail.com)
+- [Email](mailto:bendahmadyoussef@gmail.com)
 
 ---
 
