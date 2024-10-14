@@ -19,7 +19,6 @@ I am a full-stack student passionate about both front-end and back-end developme
 #### **Tools & Platforms**
 - Git & GitHub, Jira
 - Vite
-- Linux, Windows, MacOS
 
 ---
 
